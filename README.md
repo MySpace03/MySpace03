@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I’m @MySpace03 aka Amin Shavani>🔭 I’m currently working on Machine Learning<br>👯 I’m looking to collaborate on Data Science and Machine Learning Projects<br>🤝 I’m looking for help with Data Science<br>🌱 I’m currently learning Data Science<br>💬 Ask me about Gaming and Machine Learning<br>⚡ Fun fact I Don't Drink Coffee>📫 How to reach me aminshavani@gmail.com
+👋 Hi, I’m @MySpace03 aka Amin Shavani<br>🔭 I’m currently working on Machine Learning<br>👯 I’m looking to collaborate on Data Science and Machine Learning Projects<br>🤝 I’m looking for help with Data Science<br>🌱 I’m currently learning Data Science<br>💬 Ask me about Gaming and Machine Learning<br>⚡ Fun fact I Don't Drink Coffee<br>📫 How to reach me aminshavani@gmail.com
 
 
 ## 🌐 Socials:
