@@ -5,7 +5,7 @@
 </p>
 
 
-<h2 align="center"> 💫 About Me:</h2>
+## 💫 About Me:
 🔭 I’m currently working on Machine Learning<br>👯 I’m looking to collaborate on Data Science and Machine Learning Projects<br>🤝 I’m looking for help with Data Science<br>🌱 I’m currently learning Data Science<br>💬 Ask me about Gaming and Machine Learning<br>⚡ Fun fact I Don't Drink Coffee<br>📫 How to reach me aminshavani@gmail.com
 
 
