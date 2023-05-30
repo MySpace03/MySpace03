@@ -1,3 +1,5 @@
+<h1 align="center">Hi 👋, I'm Owais Khan</h1>
+<h3 align="center">A passionate Data Insighter</h3>
 # 💫 About Me:
 🔭 I’m currently working on Data Science<br>👯 I’m looking to collaborate on Machine learning<br>🤝 I’m looking for help with Machine learning<br>🌱 I’m currently learning Data Science , Apex<br>💬 Ask me about Gaming and Music<br>⚡ Fun fact I don't drink Coffee or Tea
 
