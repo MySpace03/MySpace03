@@ -1,8 +1,6 @@
-<h1 align="center">Hi 👋, I'm Amin Shavani</h1>
-<h3 align="center">A passionate Data Scientist</h3>
-<p align="center">
-  <img width="500" height="350" src="https://camo.githubusercontent.com/5ddf73ad3a205111cf8c686f687fc216c2946a75005718c8da5b837ad9de78c9/68747470733a2f2f7468756d62732e6766796361742e636f6d2f4576696c4e657874446576696c666973682d736d616c6c2e676966">
-</p>
+<h1 align="center"><img src="https://github.com/MySpace03/MySpace03/blob/main/github%20octat.png" width="200px">
+<br>Hello <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">, I'm Amin Shavani 
+<br><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=999999&center=true&vCenter=true&width=435&lines=I+am+a+Software+Developer+;I+am+a+Data+Scientist+;I+am+a+Data+Analyst" alt="Typing SVG" /></a></</h1>
 
 
 # 💫 About Me:
