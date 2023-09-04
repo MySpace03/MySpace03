@@ -4,7 +4,7 @@
 
 
 # 💫 About Me:
-🔭 I’m currently working on Data Science<br>👯 I’m looking to collaborate on Machine learning<br>🤝 I’m looking for help with Machine learning<br>🌱 I’m currently learning Data Science , Apex<br>💬 Ask me about Gaming and Music<br>⚡ Fun fact I don't drink Coffee or Tea
+🔭 I’m currently working on Data Science and Machine Learning<br>👯 I’m looking to collaborate on Machine learning Projects<br>🤝 I’m looking for help with Machine learning<br>🌱 I’m currently learning Data Science , Competitive Coding<br>💬 Ask me about Gaming and Music<br>⚡ Fun fact you would rarely see me sleep
 
 
 ## 🌐 Socials:
