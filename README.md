@@ -30,5 +30,5 @@
 ![](https://github-contributor-stats.vercel.app/api?username=MySpace03&limit=5&theme=chalk&combine_all_yearly_contributions=true)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=MySpace03&icon=6&color=6)](https://visitcount.itsvg.in)
+<img src="https://komarev.com/ghpvc/?username=GITHUB-USERNAME&label=Profile%20views&color=ce9927&style=flat" alt="MySpace03" /> </p>
 
