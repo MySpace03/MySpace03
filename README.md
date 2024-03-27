@@ -9,7 +9,6 @@
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amin-shavani/) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/AminShavani) 
-<a href="https://wa.me/+918735991378"><img src="https://img.shields.io/badge/whatsapp-%2325D366.svg?style=plastic&amp;logo=whatsapp&amp;logoColor=white" alt="Whatsapp"></a>
 <a href="mailto:aminshavani@gmail.com"><img img="" src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&amp;logo=gmail&amp;logoColor=white" alt="Gmail"></a>
 <a href="https://www.leetcode.com/Amin03/"><img alt="Leetcode" src="https://img.shields.io/badge/leetcode%20-%23FFA116.svg?style=plastic&amp;logo=leetcode&amp;logoColor=black"></a>
 
