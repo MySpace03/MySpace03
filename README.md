@@ -26,4 +26,4 @@
 ## 📫 Contact & Links
 - Portfolio: [myspace03.github.io](https://myspace03.github.io/)
 - Email: aminshavani@gmail.com
-- LinkedIn: [Amin-linkedin](https://www.linkedin.com/in/amin-shavani/)
+- LinkedIn: [Amin-Shavani](https://www.linkedin.com/in/amin-shavani/)
