@@ -1,6 +1,6 @@
 # Hi there, I'm Amin Shavani 👋
 
-<p align="center"> <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00C2FF&center=true&vCenter=true&width=600&lines=Data+Science+Enthusiast;Machine+Learning+Developer;Python+Programmer;Always+Learning+New+Things+🚀" alt="Typing Animation"> </p>
+<p align="center"> <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00C2FF&center=true&vCenter=true&width=600&lines=Data+Science+Enthusiast;Machine+Learning;Artificial+Intelligence;LLM+Explorer" alt="Typing SVG" /> </p>
 
 <p align="center">
   <a href="https://myspace03.github.io">
@@ -99,6 +99,28 @@ I'm a passionate **Data Science**, **Machine Learning**, and **Artificial Intell
 * 📈 Build scalable Machine Learning systems
 * 🤝 Collaborate with passionate developers
 * 📖 Continuously learn emerging AI technologies
+
+---
+
+# 📊 GitHub Stats & Achievements
+
+<div align="center">
+  <h3>💫 GitHub Statistics</h3>
+  <p>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MySpace03&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MySpace03&layout=compact&langs_count=8&theme=tokyonight" alt="Top Languages"/>
+  </p>
+  
+  <h3>🏆 GitHub Trophies</h3>
+  <p>
+    <img src="https://github-profile-trophy.vercel.app/?username=MySpace03&theme=tokyonight&no-frame=true&no-bg=true&column=4&row=2" alt="GitHub Trophies"/>
+  </p>
+
+  <h3>🔥 Contribution Streak</h3>
+  <p>
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=MySpace03&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+  </p>
+</div>
 
 ---
 
