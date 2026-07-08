@@ -24,7 +24,7 @@ I'm a passionate **Data Science**, **Machine Learning**, and **Artificial Intell
 * 🌱 Currently learning **Deep Learning**, **LangChain**, **RAG**, **AI Agents**, and **MLOps**
 * 💡 Passionate about Data Science, NLP, and intelligent automation
 * 🤝 Open to collaborating on AI, Machine Learning, and Open Source projects
-* 🎮 Gamer | 🎵 Music Lover
+* 🎮 Gamer 
 * ⚡ Fun fact: Rarely found sleeping!
 
 ---
