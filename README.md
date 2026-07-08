@@ -105,21 +105,21 @@ I'm a passionate **Data Science**, **Machine Learning**, and **Artificial Intell
 # 📊 GitHub Stats & Achievements
 
 <div align="center">
-  <h3>💫 GitHub Statistics</h3>
-  <p>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MySpace03&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MySpace03&layout=compact&langs_count=8&theme=tokyonight" alt="Top Languages"/>
-  </p>
-  
-  <h3>🏆 GitHub Trophies</h3>
-  <p>
-    <img src="https://github-profile-trophy.vercel.app/?username=MySpace03&theme=tokyonight&no-frame=true&no-bg=true&column=4&row=2" alt="GitHub Trophies"/>
-  </p>
 
-  <h3>🔥 Contribution Streak</h3>
-  <p>
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=MySpace03&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
-  </p>
+### 💫 GitHub Statistics
+  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MySpace03&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MySpace03&layout=compact&langs_count=8&theme=tokyonight&hide_border=true)
+
+### 🏆 GitHub Trophies
+
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=MySpace03&theme=tokyonight&no-frame=true&no-bg=true&column=7&row=1)
+
+### 🔥 Contribution Streak
+
+![GitHub Streak](https://streak-stats.demolab.com?user=MySpace03&theme=tokyonight&hide_border=true)
+
 </div>
 
 ---
