@@ -1,6 +1,6 @@
 # Hi there, I'm Amin Shavani 👋
 
-<p align="center"> <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00C2FF&center=true&vCenter=true&width=600&lines=Data+Science+Enthusiast;Machine+Learning;Artificial+Intelligence;LLM+Explorer" alt="Typing SVG" /> </p>
+<p align="center"> <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00C2FF&center=true&vCenter=true&width=600&lines=Data+Science;Machine+Learning;Artificial+Intelligence;LLM+Explorer" alt="Typing SVG" /> </p>
 
 <p align="center">
   <a href="https://myspace03.github.io">
