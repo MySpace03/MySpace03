@@ -104,23 +104,18 @@ I'm a passionate **Data Science**, **Machine Learning**, and **Artificial Intell
 
 # 📊 GitHub Stats & Achievements
 
+## GitHub Stats
+
 <div align="center">
-
-### 💫 GitHub Statistics
-  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MySpace03&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MySpace03&layout=compact&langs_count=8&theme=tokyonight&hide_border=true)
-
-### 🏆 GitHub Trophies
-
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=MySpace03&theme=tokyonight&no-frame=true&no-bg=true&column=7&row=1)
-
-### 🔥 Contribution Streak
-
-![GitHub Streak](https://streak-stats.demolab.com?user=MySpace03&theme=tokyonight&hide_border=true)
-
+  <img src="https://streak-stats.demolab.com?user=MySpace03&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=FF6B6B" alt="GitHub Streak" />
 </div>
+
+## Contribution Graph
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MySpace03&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=00d9ff&line=00d9ff&point=ffffff" alt="Contribution Graph"/>
+</div>
+
 
 ---
 
